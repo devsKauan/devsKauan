@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **C# and JavaScript**
 
+- 💻 My professional profile on github [https://github.com/devsKauan](https://github.com/devsKauan)
+
 - 💬 Ask me about **Vue.js, Git, C#, JavaScript**
 
-- 📫 How to reach me **devkauanm@gmail.com**
+- 📫 How to reach me **daluzmarkes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
