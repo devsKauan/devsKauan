@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C# and JavaScript**
 
-- 💻 My professional profile on github [https://github.com/devsKauan](https://github.com/devsKauan)
+- 💻 My student profile on github [https://github.com/devsKauan](https://github.com/mrkaka1)
 
 - 💬 Ask me about **Vue.js, Git, C#, JavaScript**
 
